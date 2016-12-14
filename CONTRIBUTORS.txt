@@ -107,4 +107,6 @@ his or her name.
 Contributors
 ------------
 
+- Steve Piercy, 2016-06-02
+
 - Michael Merickel, 2016-11-26
