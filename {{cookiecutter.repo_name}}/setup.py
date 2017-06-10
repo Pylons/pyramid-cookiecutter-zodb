@@ -12,6 +12,7 @@ requires = [
     'pyramid',
     'pyramid_chameleon',
     'pyramid_debugtoolbar',
+    'pyramid_retry',
     'pyramid_tm',
     'pyramid_zodbconn',
     'transaction',
