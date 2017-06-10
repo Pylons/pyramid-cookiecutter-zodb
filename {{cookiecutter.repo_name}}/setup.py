@@ -12,6 +12,7 @@ requires = [
     'pyramid >= 1.9a',
     'pyramid_chameleon',
     'pyramid_debugtoolbar',
+    'plaster_pastedeploy',
     'pyramid_retry',
     'pyramid_tm',
     'pyramid_zodbconn',
