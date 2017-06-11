@@ -2,7 +2,7 @@
 pyramid-cookiecutter-zodb
 =========================
 
-.. image:: https://travis-ci.org/Pylons/pyramid-cookiecutter-zodb.png?branch=master
+.. image:: https://travis-ci.org/Pylons/pyramid-cookiecutter-zodb.png?branch=latest
         :target: https://travis-ci.org/Pylons/pyramid-cookiecutter-zodb
         :alt: Master Travis CI Status
 
