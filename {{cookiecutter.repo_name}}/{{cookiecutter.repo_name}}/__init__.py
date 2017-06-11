@@ -16,6 +16,7 @@ def main(global_config, **settings):
     settings['tm.manager_hook'] = 'pyramid_tm.explicit_manager'
     config.include('pyramid_chameleon')
     config.include('pyramid_tm')
+    config.include('pyramid_retry')
     config.include('pyramid_zodbconn')
     config.add_static_view('static', 'static', cache_max_age=3600)
     config.scan()
