@@ -2,6 +2,12 @@
 pyramid-cookiecutter-zodb
 =========================
 
+.. warning::
+    This cookiecutter has been deprecated in favor of the unified cookiecutter `pyramid-cookiecutter-starter <https://github.com/pylons/pyramid-cookiecutter-starter>`_ effective with the release of Pyramid 1.10.
+    ``pyramid-cookiecutter-starter`` combines all features of ``pyramid-cookiecutter-alchemy`` and ``pyramid-cookiecutter-zodb``.
+    Please use that cookiecutter instead of this one.
+    This cookiecutter may not receive further updates.
+
 .. image:: https://travis-ci.org/Pylons/pyramid-cookiecutter-zodb.png?branch=master
         :target: https://travis-ci.org/Pylons/pyramid-cookiecutter-zodb
         :alt: Master Travis CI Status
