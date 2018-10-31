@@ -2,9 +2,17 @@
 pyramid-cookiecutter-zodb
 =========================
 
+Deprecation notice
+------------------
+
+This cookiecutter has been deprecated in favor of the unified cookiecutter `pyramid-cookiecutter-starter <https://github.com/pylons/pyramid-cookiecutter-starter>`_ effective with the release of Pyramid 1.10.
+``pyramid-cookiecutter-starter`` combines all features of ``pyramid-cookiecutter-alchemy`` and ``pyramid-cookiecutter-zodb``.
+Please use `pyramid-cookiecutter-starter <https://github.com/pylons/pyramid-cookiecutter-starter>`_ instead of this one.
+This cookiecutter may not receive further updates.
+
 .. image:: https://travis-ci.org/Pylons/pyramid-cookiecutter-zodb.png?branch=latest
         :target: https://travis-ci.org/Pylons/pyramid-cookiecutter-zodb
-        :alt: Master Travis CI Status
+        :alt: latest Travis CI Status
 
 A Cookiecutter (project template) for creating a Pyramid project using ZODB for persistent storage, traversal for routing, and Chameleon for templating.
 
